@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/008e3994-abc1-4eab-8d48-d56adb836a15)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -11,54 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Linguistic, University of Liverpool, 2024
+* M.phil. in Research in Second Language Education, University of Cambridge, 2019
+* B.A. in English in Education, University of York, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2019 - Nov 2020: Research Assistant
+  * Xi'an Jiaotong Liverpool University
+  * Duties includes: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* SPSS, Stata, R
+* Nvivo, MaxQDA
+* Meta-analysis
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Gao, X., Yan, R., Fang, X., & Xing, S. (2021). Intrusive Psychological Control and Children’s Behaviors in Chinese Multigenerational Families: Role of Children’s Temperamental Reactivity. Journal of Child and Family Studies, 31, 10.1007/s10826-021-02048-5.(SSCI)
+
+Fang, X. (2023). Teacher’s talk in warm-up sessions: A case study of the Chinese secondary EFL classroom. International Journal of English for Academic Purposes: Research and Practice, 3(2), 115-135.
+
+Co-author: Research and Practice of Immersive English Teaching for Preschool Children (Xi'an Jiaotong University Press, forthcoming)
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+Fang, X. (2023). Learners’ processing of oral corrective feedback in the EFL classroom: things beyond the final language product. British Association for Applied Linguistics, 56th Annual Conference, York.
+
+Fang, X. (2022). The problem of “uptake”: Reconceptualization learners’ error and correction processing in the oral corrective feedback research. XJTLU Postgraduate Research Symposium. Suzhou.
+
+Fang, X. (2022). Success from the very beginning: a multiple case study into warmup plan in 45 secondary EFL classrooms. Global English Education China Assembly, Hangzhou.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Tutor, ENGL661- Second Language Acquisition, University of Liverpool
+
+Tutor, LNG208- Psycholinguistics, Xi’an Jiaotong-Liverpool University
+
+Tutor, LNG107- Introduction to Linguistics: Spoken & Written Discourse, Xi’an Jiaotong-Liverpool University
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Research Methods in Applied Linguistics (2023 – Present) , Reviewer
+Evaluating research on applied linguistics methods, including design, data analysis, and reporting.
+
+Language and Communication (2024 – Present) , Reviewer
+Reviewing interdisciplinary research on language and communication, emphasizing theoretical frameworks and cross-disciplinary connections.
+
+Member, British Association for Applied Linguistics (BAAL) (2024 – Present)!
+
+
