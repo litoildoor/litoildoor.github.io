@@ -14,7 +14,7 @@ name                     : &name "Shin FANG"
 description              : &description "Architect of linguistic discovery and the art of  minds at work"
 url                      : https://litoildoor.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "academicpages/litoildoor.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   pronouns         : "she/her"  
   bio              : "Architect of linguistic discovery and the art of  minds at work."
   location         : "Earth"
-  employer         : "Changshu Institution of Technology, Suzhou, China"
+  employer         : "Changshu Institution of Technology"
   uri              : # URL
   email            : "xin.fang0621@gmail.com" 
 
